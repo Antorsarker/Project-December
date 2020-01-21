@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="album_title_padding" />
+    <dimen name="card_margin" />
+    <dimen name="album_cover_height" />
+    <dimen name="songs_count_padding_bottom" />
+</resources>

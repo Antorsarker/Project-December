@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/googleMapMenu"
+        android:icon="@drawable/ic_map_menu"
+        android:title="Google Map"/>
+
+    <item
+        android:id="@+id/apiMenu"
+        android:icon="@drawable/ic_api_menu"
+        android:title="API"/>
+
+    <item
+        android:id="@+id/userListMenu"
+        android:icon="@drawable/ic_user_menu"
+        android:title="User List"/>
+
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/ic_store_white"
+        android:title="Shop" />
+    <item
+        android:id="@+id/employee"
+        android:icon="@drawable/ic_employee"
+        android:title="Employee" />
+</menu>
